@@ -1,0 +1,2 @@
+alert("Responsive HTML Mailer.")
+
